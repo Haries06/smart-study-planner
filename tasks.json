@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Algorithms coursework",
+    "module": "Algorithms",
+    "deadline": "2026-01-15",
+    "hours": 6.0,
+    "importance": 4,
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Databases coursework",
+    "module": "Databases",
+    "deadline": "2026-01-20",
+    "hours": 8.0,
+    "importance": 4,
+    "status": "todo"
+  }
+]
